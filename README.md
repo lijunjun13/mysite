@@ -1,4 +1,4 @@
-# mysite
+# M&T
 ## Inspiration
  1. Booming demands of trucks
  2. Asymmetric information sharing between truck-owners and customers
