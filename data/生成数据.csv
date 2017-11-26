@@ -1,0 +1,17 @@
+car_id,car_type,car_owner,capacity,routine,price
+1,Atego,John,238,"1-3-5",100 
+2,Axor,Smith,290,"2-3",120 
+3,Actros,Mike,408,"1-4",200 
+4,Actros,Joel,408,"3-5",230 
+5,Atego,Eppinger,238,"2-4",110 
+6,Axor,John,290,"2-4",126 
+7,Atego,Smith,238,"1-2",96 
+8,Actros,Mike,408,"3-5",207 
+9,Atego,Joel,238,"2",96 
+10,Atego,Eppinger,238,"4",100 
+11,Atego,John,238,"1-5",100 
+12,Axor,Smith,290,"4-5",130 
+13,Atego,Mike,238,"2-4",101 
+14,Axor,Joel,290,"1-2",126 
+15,Atego,Eppinger,238,"3-4",97 
+16,Axor,John,290,"2-5",117 
